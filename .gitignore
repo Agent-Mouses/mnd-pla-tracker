@@ -1,0 +1,12 @@
+__pycache__/
+*.db
+.DS_Store
+mnd_pla_data/html/
+mnd_pla_data/json/
+mnd_pla_data/records.jsonl
+mnd_pla_data/records.csv
+mnd_pla_data/records.xlsx
+mnd_pla_data/download_index.csv
+mnd_pla_data/target_media/
+output/
+images/
