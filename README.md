@@ -1,5 +1,7 @@
 # MND PLA Activity Tracker
 
+> **AI Agent?** Read **[AI-GUIDE.md](AI-GUIDE.md)** for project orientation and operations.
+
 Extracts zone-level sortie data from Taiwan MND "PLA air activities" map images via OCR, matches to existing scraped records, and builds a queryable SQLite database — with a focus on UAV activity tracking.
 
 ## Data Layout
